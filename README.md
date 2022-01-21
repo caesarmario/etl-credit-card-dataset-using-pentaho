@@ -24,6 +24,8 @@
   - [ETL Process](#-etl-process)
       - [Application Record](#-application-record)
       - [Credit Record](#-credit-record)
+      - [Creating Output File](#-output-file)
+  - [Preview Output File](#-preview-output-file)
 <br>
 
 ## 🖋 About Project
