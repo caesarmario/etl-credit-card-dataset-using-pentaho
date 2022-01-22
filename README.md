@@ -163,6 +163,7 @@
 ## 🙌 Support me!
 
 👉 If you find this project useful, **please ⭐ this repository 😆**!
+#### 🎈 Check out my work using *AutoML/PyCaret* with this processed data set [here](https://www.kaggle.com/caesarmario/credit-card-approval-prediction-w-pycaret)!
 
 ---
 
