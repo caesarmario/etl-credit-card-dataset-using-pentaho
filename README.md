@@ -10,9 +10,9 @@
   <a href="https://linktr.ee/caesarmario_">
     <img src="https://img.shields.io/badge/Follow%20My%20Other%20Works-019875?style=flat&labelColor=019875&link=https:/linktr.ee/caesarmario_" alt"Linktree"/>
   </a>
-  <!-- <a href="XXX">
-    <img src="https://img.shields.io/badge/-Predictioin%20with%20Machine%20Learning%20on%20Kaggle-teal?style=flat&logo=kaggle&logoColor=deepblue&link=XXX" alt="Kaggle Projects"/>
-  </a> -->
+  <a href="https://www.kaggle.com/caesarmario/credit-card-approval-prediction-w-pycaret">
+    <img src="https://img.shields.io/badge/-Prediction%20w/%20AutoML%20on%20Kaggle-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/caesarmario/credit-card-approval-prediction-w-pycaret" alt="Kaggle Projects"/>
+  </a>
 </p>
 <br>
 
@@ -163,7 +163,7 @@
 ## 🙌 Support me!
 
 👉 If you find this project useful, **please ⭐ this repository 😆**!
-#### 🎈 Check out my work using *AutoML/PyCaret* with this processed data set [here](https://www.kaggle.com/caesarmario/credit-card-approval-prediction-w-pycaret)!
+### 🎈 Check out my work using *AutoML/PyCaret* with this processed data set [here](https://www.kaggle.com/caesarmario/credit-card-approval-prediction-w-pycaret)!
 
 ---
 
